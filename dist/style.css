@@ -1,0 +1,76 @@
+header {
+  border: 1px solid black;
+  margin: 15px;
+  padding: 15px;
+}
+h1{
+  color:Purple;
+  background-color:pink;
+  border:1px solid black;
+  padding:10px;
+  border-radius:30px;
+  text-align:center;
+}
+
+#home p{
+  color:black;
+  background-color:pink;
+  padding:8px;
+   }
+
+h2{color:purple;
+   display:inline-block;
+  border-bottom:1px solid purple;
+  padding-bottom:2px;}
+
+h4{color:navy;}
+
+#major p{
+  color:black;
+  background-color:pink;
+  padding:8px;
+}
+
+#skills li{
+  background-color:yellow;
+  color:purple;
+  padding:5px;
+  display:inline-block;
+}
+
+h3{color:navy;
+  
+   display:inline-block;
+  }
+
+#myinterest li{
+  color:purple;
+  border:1px solid purple;
+  margin:2px 0;
+  padding:1px;
+  list-style: none;
+  background-color:yellow;
+}
+
+section#major{ border: 1px solid black;
+  margin: 15px;
+  padding: 15px;
+}
+section#home{ border: 1px solid black;
+  margin: 15px;
+  padding: 15px;}
+section#skills{
+   border: 1px solid black;
+  margin: 15px;
+  padding: 15px;
+}
+section#myinterest{
+   border: 1px solid black;
+  margin: 15px;
+  padding: 15px;
+}
+
+img{display:block;
+   margin:0 auto;
+   border-radius: 25px;
+   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;}
